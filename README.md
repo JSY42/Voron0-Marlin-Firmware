@@ -16,7 +16,7 @@ Has no Mesh leveling nor abl enabled ( cuz it's a small bed )
 How to use : 
 
 1. Download the lastest marlin version (check if it is the same!)
-2. Replace Configuration.h and Configuration_dav.h in "Marlin" folder with the downloaded ones on this git
+2. Replace Configuration.h and Configuration_adv.h in "Marlin" folder with the downloaded ones on this git
 3. Also put in Bootscreen.h file into "Marlin" folder ( the same folder with configs ) If u want to use the custom bootscreen.
 4. Replace Marlin/src/pins/stm32f4/pins_MKS_ROBIN_NANO_V3_common.h with the downloaded one on this git. (read below)
 5. Compile - by either platformio or abm / OR you could just use the already compiled .bin file on this git.
