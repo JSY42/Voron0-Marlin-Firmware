@@ -3,7 +3,7 @@ Marlin Frimware that I use for my voron0
 
 Used the latest bugfix 2.1.x
 downloaded from https://github.com/MarlinFirmware/Marlin
-(04/04/2023 current version 02010300
+( 04/04/2023 current version 02010300 )
 
 Based on MKS Eagle Motherboard
 https://www.aliexpress.com/item/1005003352842756.html
