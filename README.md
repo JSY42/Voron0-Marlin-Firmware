@@ -1,5 +1,5 @@
 # Voron0-Marlin-Firmware
-Marlin Frimware that I use for my voron0
+Marlin Firmware that I use for my voron0
 
 Used the latest bugfix 2.1.x
 downloaded from https://github.com/MarlinFirmware/Marlin
