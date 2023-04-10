@@ -139,6 +139,7 @@
 
 #define FAN0_PIN                            PC14  // FAN
 #define FAN1_PIN                            PB1   // FAN1
+#define FAN2_PIN                            PB0   // FAN2
 
 //
 // Thermocouples
